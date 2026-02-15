@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\Private\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\ProjectNS.1.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\Private\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\ProjectNS.1.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\ProjectNS.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\ProjectNS.1.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\ProjectNS.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\ProjectNS.1.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\ProjectNS.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\ProjectNS.1.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	}
+]
