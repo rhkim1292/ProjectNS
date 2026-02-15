@@ -15,6 +15,16 @@ DerivedDataCache/
 !*.uproject
 !Source/
 
+# Keep Source folder but ignore some generated files
+Source/**/Intermediate/
+
+# But DO commit your actual source code
+!Source/**/*.h
+!Source/**/*.cpp
+!Source/**/*.cs
+!Source/**/*.Build.cs
+!Source/**/*.Target.cs
+
 # Exclude crash reports
 *.log
 ```
