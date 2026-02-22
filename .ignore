@@ -1,5 +1,14 @@
+/.git
 /.vscode
 /Content
 /DerivedDataCache
 /Intermediate
 /Saved
+/Plugins/Aura/code_search
+/Plugins/Aura/Content
+/Plugins/Aura/Intermediate
+/Plugins/Aura/MCP
+/Plugins/Aura/PortablePython
+/Plugins/Aura/Settings
+/Plugins/Aura/ThirdParty
+/Plugins/PBCharacterMovement/Intermediate

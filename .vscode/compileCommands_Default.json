@@ -1,5 +1,109 @@
 [
 	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraBlockoutTool\\AuraBlockoutTool.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\AuraBlockoutTool.48.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraBlockoutTool\\IABTBuildable_README.md",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\AuraBlockoutTool.48.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraModelGenerator\\AuraModelGenerator.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\AuraModelGenerator.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraModelStyler\\AuraModelStyler.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\AuraModelStyler.50.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\Aura.47.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\PBCharacterMovement.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\Character\\PBPlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\Character\\PBPlayerMovement.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\PBCharacterMovementModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Character\\PBPlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Character\\PBPlayerMovement.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\PBCharacterMovementModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Sound\\PBMoveStepSound.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_Default\\PBCharacterMovement.101.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\ProjectNS\\Source\\ProjectNS\\Private\\MyClass.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
