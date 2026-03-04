@@ -24,6 +24,10 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": false
+		},
+		{
+			"Name": "LudusAI",
+			"Enabled": true
 		}
 	]
 }
