@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{AC143DBF-4FCF-8348-3CFA-1B96728872BA}",
+	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -27,7 +27,7 @@
 		},
 		{
 			"Name": "LudusAI",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
