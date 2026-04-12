@@ -1,49 +1,9 @@
 [
 	{
-		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraBlockoutTool\\AuraBlockoutTool.Build.cs",
-		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\AuraBlockoutTool.48.rsp"
-		],
-		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraBlockoutTool\\IABTBuildable_README.md",
-		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\AuraBlockoutTool.48.rsp"
-		],
-		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraModelGenerator\\AuraModelGenerator.Build.cs",
-		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\AuraModelGenerator.49.rsp"
-		],
-		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\AuraModelStyler\\AuraModelStyler.Build.cs",
-		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\AuraModelStyler.50.rsp"
-		],
-		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Aura\\Source\\Aura\\Aura.Build.cs",
-		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\Aura.47.rsp"
-		],
-		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
-	},
-	{
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\PBCharacterMovement.Build.cs",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -51,7 +11,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\Character\\PBPlayerCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -59,7 +19,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\Character\\PBPlayerMovement.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -67,7 +27,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Private\\PBCharacterMovementModule.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -75,7 +35,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Character\\PBPlayerCharacter.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -83,7 +43,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Character\\PBPlayerMovement.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -91,7 +51,7 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\PBCharacterMovementModule.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
@@ -99,7 +59,807 @@
 		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\PBCharacterMovement\\Source\\PBCharacterMovement\\Public\\Sound\\PBMoveStepSound.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.101.rsp"
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\PBCharacterMovement.48.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadBaseProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadHapticsProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadLightsProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadSensorsProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadSettingsProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadTouchProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\API\\SonyGamepadTriggerProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Algorithms\\MadgwickAhrs.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\DeviceManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\LICENSE",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\README.md",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GCore\\Interfaces\\IPlatformHardwareInfo.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GCore\\Utils\\CR32.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GImplementations\\Libraries\\Base\\SonyGamepadAbstract.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GImplementations\\Libraries\\DualSense\\DualSenseLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GImplementations\\Libraries\\DualShock\\DualShockLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GImplementations\\Utils\\GamepadOutput.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Private\\GImplementations\\Utils\\MiniAudio\\miniaudio_impl.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\IDeviceRegistry.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\IPlatformHardwareInfo.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\ISonyGamepad.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadAudioHaptics.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadLightbar.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadRumbles.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadSensors.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadStatus.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadTouch.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Interfaces\\Segregations\\IGamepadTrigger.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Templates\\TBasicDeviceRegistry.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Templates\\TGenericHardwareInfo.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\DSCoreTypes.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\ECoreGamepad.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\AudioContext.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadCalibration.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadFeature.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadLightbar.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadLigthbarFlash.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadPlayerLed.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadRumbles.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadTriggers.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Config\\GamepadTriggersHaptic.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Context\\AudioContext.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Context\\DeviceContext.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Context\\InputContext.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Types\\Structs\\Context\\OutputContext.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GCore\\Utils\\CR32.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Libraries\\Base\\SonyGamepadAbstract.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Libraries\\DualSense\\DualSenseLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Libraries\\DualShock\\DualShockLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadAudio.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadInput.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadOutput.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadSensors.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadTouch.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\GImplementations\\Utils\\GamepadTrigger.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\GamepadCore\\Source\\Public\\Libs\\miniaudio.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Helpers\\CommandHelpers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Helpers\\DualSenseLog.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Helpers\\ValidateHelpers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Implementations\\Adapters\\DeviceRegistry.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Implementations\\Managers\\HapticsRegistry.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Implementations\\Platforms\\Commons\\CommonsDeviceInfo.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Implementations\\Platforms\\Others\\GamepadHardwareBridge.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Implementations\\Platforms\\Windows\\WindowsDeviceInfo.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Legacy\\DualSenseProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Legacy\\SonyGamepadProxy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Subsystems\\AudioHapticsListener.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\Subsystems\\SonyInputProcessor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Private\\WindowsDualsense_ds5w.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadBaseProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadHapticsProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadLightsProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadProxyHelpers.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadSensorsProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadSettingsProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadTouchProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\SonyGamepadTriggerProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\Types\\DualSenseFeatureReport.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\Types\\DualShockFeatureReport.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\Types\\Enums\\EDeviceCommons.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\API\\Types\\Enums\\EDeviceConnection.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Algorithms\\MadgwickAhrs.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\DeviceManager.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Helpers\\CommandHelpers.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Helpers\\DualSenseLog.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Helpers\\ValidateHelpers.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Adapters\\DeviceRegistry.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Adapters\\DeviceRegistryPolicy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Managers\\HapticsRegistry.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Platforms\\Commons\\CommonsDeviceInfo.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Platforms\\Commons\\LinuxHardwarePolicy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Platforms\\Others\\GamepadHardwareBridge.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Platforms\\Windows\\WindowsDeviceInfo.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Implementations\\Platforms\\Windows\\WindowsHardwarePolicy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Legacy\\DualSenseProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Legacy\\SonyGamepadProxy.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Subsystems\\AudioHapticsListener.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\Subsystems\\SonyInputProcessor.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\Public\\WindowsDualsense_ds5w.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ProjectNS\\Plugins\\Unreal-Dualsense\\Source\\WindowsDualsense_ds5w\\WindowsDualsense_ds5w.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ProjectNS\\.vscode\\compileCommands_ProjectNS\\WindowsDualsense_ds5w.49.rsp"
 		],
 		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
 	},
