@@ -8,7 +8,8 @@ public class ProjectNSEditorTarget : TargetRules
 	public ProjectNSEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
+		DefaultBuildSettings = BuildSettingsVersion.V7;
+		BuildEnvironment = TargetBuildEnvironment.Unique;
 
 		ExtraModuleNames.AddRange( new string[] { "ProjectNS" } );
 	}
